@@ -28,6 +28,7 @@ There are two main ways to launch our system: through vanilla Python and using D
 Use the Dockerfiles to deploy.
 
 Node: https://hub.docker.com/repository/docker/srbgd/dfs-node
+
 Nameserver: https://hub.docker.com/repository/docker/srbgd/dfs-nameserver
 
 ## Architecture
